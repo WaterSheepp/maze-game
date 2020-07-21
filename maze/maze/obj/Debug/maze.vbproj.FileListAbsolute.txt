@@ -1,0 +1,12 @@
+C:\Users\joses\Desktop\resources\game 2\maze\maze\bin\Debug\maze.exe.config
+C:\Users\joses\Desktop\resources\game 2\maze\maze\bin\Debug\maze.exe
+C:\Users\joses\Desktop\resources\game 2\maze\maze\bin\Debug\maze.pdb
+C:\Users\joses\Desktop\resources\game 2\maze\maze\bin\Debug\maze.xml
+C:\Users\joses\Desktop\resources\game 2\maze\maze\obj\Debug\maze.vbprojAssemblyReference.cache
+C:\Users\joses\Desktop\resources\game 2\maze\maze\obj\Debug\maze.Form1.resources
+C:\Users\joses\Desktop\resources\game 2\maze\maze\obj\Debug\maze.Resources.resources
+C:\Users\joses\Desktop\resources\game 2\maze\maze\obj\Debug\maze.vbproj.GenerateResource.cache
+C:\Users\joses\Desktop\resources\game 2\maze\maze\obj\Debug\maze.vbproj.CoreCompileInputs.cache
+C:\Users\joses\Desktop\resources\game 2\maze\maze\obj\Debug\maze.exe
+C:\Users\joses\Desktop\resources\game 2\maze\maze\obj\Debug\maze.xml
+C:\Users\joses\Desktop\resources\game 2\maze\maze\obj\Debug\maze.pdb
